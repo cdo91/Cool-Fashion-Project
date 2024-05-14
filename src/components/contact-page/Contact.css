@@ -1,0 +1,17 @@
+.form-div{
+    margin-top: 20%;
+    margin: auto;
+    padding: 20px;
+    max-width: 30vw;
+}
+
+.form{
+    display: flex;
+    flex-direction: column;
+}
+
+.submit-button {
+    width: 60px;
+    margin-block: 10px;
+    align-self: end;
+}
