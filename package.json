@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://yourusername.github.io/your-repository-name",
+  "homepage": "https://cdo91.github.io/Cool-Fashion-Project",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
